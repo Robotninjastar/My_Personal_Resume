@@ -25,3 +25,8 @@
     background-color: #0491aa;
     color: white;
   }
+
+  .flex-container {
+    display: flex;
+    background-color: rgb(30, 154, 255);
+  }

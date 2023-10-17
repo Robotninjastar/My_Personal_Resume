@@ -25,3 +25,16 @@
     background-color: #0491aa;
     color: white;
   }
+
+
+.flex-container {
+  display: flex;
+  background-color: rgb(30, 154, 255);
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
