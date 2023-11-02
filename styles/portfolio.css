@@ -21,13 +21,19 @@
     color: white;
 }
 
+#project1 { background-color: #0491aa;border-radius: 10px;padding: 5px;}
 
+#project2 {background-color: blanchedalmond;border-radius: 10px;padding: 5px;}
 
+#project3 {background-color: rgb(243, 147, 112);border-radius: 10px;padding: 5px;}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
     overflow: hidden;
   }
+
+
+
   
   /* Style the links inside the navigation bar */
   .topnav a {
