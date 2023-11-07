@@ -1,5 +1,9 @@
-/* Add a black background color to the top navigation */
-.topnav {
+.flexbox-container2 { display:flex;flex-flow: column; background-color: cornflowerblue;border-radius:0;}.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  .topnav {
     background-color: #333;
     overflow: hidden;
   }
@@ -25,11 +29,4 @@
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #0491aa;
-    color: white;
-  }
-
-  .flex-container {
-    display: flex;
-    background-color: rgb(65, 127, 179);
-  }
-
+    color: white}
